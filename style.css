@@ -1,0 +1,70 @@
+body {
+	margin:0;
+	padding:0;
+}
+#sidebarCell {
+	border:0px solid green;
+}
+#headerCell {
+	border: 0;
+	margin: 0;
+	background:red;
+
+}
+#footerCell {
+	border: 0px solid yellow;
+}
+#primaryCell {
+	width:75%;
+	border:0px solid blue;
+}
+#primaryLayout{
+	border:0;
+	margin:0;
+	padding:0;
+	width:100%;
+
+}
+#headerLogo{
+	height:90px;
+	background-color: #5e5a5a;
+	color:white;
+	width:100%;
+	border-bottom: 3px solid black;
+	line-height: 90px;
+}
+
+#headerCat{
+	height:75px;
+	color:black;
+	background-color: #d4d4d4;
+	width:100%;
+	border-bottom: 3px solid black;
+	line-height: 75px;
+}
+.categoryTable{
+	text-align: center;
+	width: 100%;
+}
+.categoryCell{
+	width: 25%;
+}
+
+#featuredPosts{
+	height:200px;
+	color:black;
+	background-color:  #b8b3b3;
+	width:100%;
+	border-bottom: 3px solid black;
+	line-height: 75px;
+}
+
+.featuredPostsTable{
+	text-align: center;
+	width: 100%;
+}
+.featuredPostsCell{
+	width: 25%;
+}
+
+
